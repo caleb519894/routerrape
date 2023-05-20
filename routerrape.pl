@@ -36,6 +36,6 @@ print ORANGE<<EOTEXT;
 ⠀⠀⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⡠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠹⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-	@rxcuh raped $ip
+  rxcuh raped $ip
 	For $time Seconds
 EOTEXT
